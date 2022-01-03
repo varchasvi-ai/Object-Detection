@@ -1,0 +1,16 @@
+.heading
+{
+font-size: 23px;
+}
+
+#status
+{
+font-size: 18px;
+} 
+
+h1{
+    font-family: 'Staatliches', cursive;
+    font-size: 150px;
+    color:white;
+    text-shadow: black 0px 10px 20px;
+}
